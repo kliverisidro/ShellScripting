@@ -1,5 +1,5 @@
 #! /bin/bash
-#while loops
+#until loops
 n=1
 
 until [ $n -ge 10 ]
